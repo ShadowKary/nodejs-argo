@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "yap!!!",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
